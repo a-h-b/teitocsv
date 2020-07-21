@@ -1,3 +1,7 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3953314.svg)](https://doi.org/10.5281/zenodo.3953314)
+
+
+
 # teitocsv
 Transform TEI XML files to a CSV
 
